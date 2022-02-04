@@ -8,11 +8,11 @@ My coursework at Penn by the end of spring 2022 will be:
 
       - ESE 532: System on a Chip Architecture
       - ESE 570: Digital Integrated Circuits and VLSI fundamentals
-      - Real Time Embedded Systems
+      - ESE 519: Real Time Embedded Systems
       
-      - Computer Organization and Design
-      - Modern Convex Optmization
-      - Quantum Circuits Engineering
+      - CIS 571: Computer Organization and Design
+      - ESE 605: Modern Convex Optmization
+      - ESE 680 (spring '22): Quantum Circuits Engineering
       
 Along with that I am also TAing the course CIT 582: Blockchains and Cryptography :)
 
