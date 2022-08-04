@@ -18,10 +18,10 @@ My coursework at Penn by the end of Fall 2022 will be:
       - CIS 601 (fall '22): Advanced Topics in Computer Architecture
      
 Experience:
-- Application Engineering Intern at Analog Devices 
+- Application Engineering Intern at Analog Devices, 
   summer 2022
 
-- TA for CIT 582: Blockchains and Cryptography
+- TA for CIT 582: Blockchains and Cryptography,
   spring 2022
 
 You can reach me at arjunmatwork@gmail.com
